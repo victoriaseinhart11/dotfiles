@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = victoriaseinhart@gmail.com
+	name = victoria seinhart
